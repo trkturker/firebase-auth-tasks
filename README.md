@@ -62,7 +62,7 @@ firebase-auth-tasks/
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/firebase-auth-tasks.git
+git clone https://github.com/trkturker/firebase-auth-tasks.git
 ```
 
 2. Install dependencies:
