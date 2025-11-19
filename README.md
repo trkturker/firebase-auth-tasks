@@ -33,6 +33,7 @@ A simple **React Native** task management app using **Firebase Authentication** 
 
 ## Folder Structure
 
+```
 firebase-auth-tasks/
 ├── app/                    
 │   ├── _layout.tsx
@@ -59,6 +60,7 @@ firebase-auth-tasks/
 ├── package.json
 ├── tailwind.config.js
 └── tsconfig.json
+```
 
 ## Installation
 
