@@ -68,14 +68,19 @@ git clone https://github.com/yourusername/firebase-auth-tasks.git
 2. Install dependencies:
 ```
 npm install
+```
 # or
+
+```
 yarn install
 ```
 
 3. Run the app:
 ```
 npm run start
+```
 # or
+```
 yarn start
 ```
 
