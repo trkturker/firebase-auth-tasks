@@ -22,9 +22,9 @@ A simple **React Native** task management app using **Firebase Authentication** 
 ## Screenshots
 
 <p>
-<img src="assets/1.jpg" alt="Ekran 1" width="300" style="margin-right: 20px;"/>
-<img src="assets/2.jpg" alt="Ekran 2" width="300" style="margin-right: 20px;"/>
-<img src="assets/3.jpg" alt="Ekran 3" width="300" style="margin-right: 20px;"/>
+<img src="assets/1.jpg" alt="Ekran 1" width="300" style="padding-right: 20px;"/>
+<img src="assets/2.jpg" alt="Ekran 2" width="300" style="padding-right: 20px;"/>
+<img src="assets/3.jpg" alt="Ekran 3" width="300" style="padding-right: 20px;"/>
 </p>
 
 ## Folder Structure
