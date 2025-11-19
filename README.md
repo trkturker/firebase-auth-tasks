@@ -69,7 +69,7 @@ git clone https://github.com/trkturker/firebase-auth-tasks.git
 ```
 npm install
 ```
-# or
+### or
 
 ```
 yarn install
@@ -79,7 +79,7 @@ yarn install
 ```
 npm run start
 ```
-# or
+### or
 ```
 yarn start
 ```
