@@ -61,20 +61,23 @@ firebase-auth-tasks/
 ## Installation
 
 1. Clone the repository:
-
-    git clone https://github.com/yourusername/firebase-auth-tasks.git
-    cd firebase-auth-tasks
+```
+git clone https://github.com/yourusername/firebase-auth-tasks.git
+```
 
 2. Install dependencies:
-
-    npm install
+```
+npm install
 # or
-    yarn install
-
+yarn install
+```
 
 3. Run the app:
-
-    npm run start
+```
+npm run start
+# or
+yarn start
+```
 
 ## Usage
 
