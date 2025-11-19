@@ -18,8 +18,6 @@ A simple **React Native** task management app using **Firebase Authentication** 
 - **Signup**: Create a new user
 - **Signin**: Login with existing credentials
 - **Tasks**: List, add, update, and delete tasks
-- **Not Found**: Fallback screen for undefined routes
-
 
 ## Screenshots
 
@@ -36,32 +34,31 @@ A simple **React Native** task management app using **Firebase Authentication** 
 ## Folder Structure
 
 firebase-auth-tasks/
-├─ app/ # Expo Router pages
-│ ├─ _layout.tsx
-│ ├─ index.tsx
-│ ├─ signup.tsx
-│ ├─ signin.tsx
-│ ├─ tasks.tsx
-│ ├─ details.tsx
-│ └─ not-found.tsx
-├─ assets/ # Images, icons, and other assets
-├─ components/ # Reusable React components
-├─ hooks/ # Custom hooks for tasks, auth, and storage
-│ ├─ useTasks.ts
-│ ├─ useAddTask.ts
-│ ├─ useUpdateTask.ts
-│ ├─ useDeleteTask.ts
-│ ├─ useAsyncStorage.ts
-│ ├─ useSignin.ts
-│ ├─ useSignout.ts
-│ └─ useSignup.ts
-├─ services/ # Firebase config and services
-│ └─ firebaseConfig.ts
-├─ global.css # Tailwind global styles
-├─ package.json
-├─ tailwind.config.js
-├─ tsconfig.json
-
+├── app/                    
+│   ├── _layout.tsx
+│   ├── index.tsx
+│   ├── signup.tsx
+│   ├── signin.tsx
+│   ├── tasks.tsx
+│   ├── details.tsx
+│   └── not-found.tsx
+├── assets/                 
+├── components/             
+├── hooks/                  
+│   ├── useTasks.ts
+│   ├── useAddTask.ts
+│   ├── useUpdateTask.ts
+│   ├── useDeleteTask.ts
+│   ├── useAsyncStorage.ts
+│   ├── useSignin.ts
+│   ├── useSignout.ts
+│   └── useSignup.ts
+├── services/               
+│   └── firebaseConfig.ts
+├── global.css             
+├── package.json
+├── tailwind.config.js
+└── tsconfig.json
 
 ## Installation
 
